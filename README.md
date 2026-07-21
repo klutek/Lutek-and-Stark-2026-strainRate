@@ -5,7 +5,7 @@ Below, we detail the data and R code for Lutek and Stark 2026 which are provided
 
 Within the repository are two folders: 0_originalData contains the original data files (force traces [csv files] and images) used to generate the datasets for this paper, 1_statsData contains the final datasets and R code used for the statistical analysis and creation of figures.
 
-## 0_originalData_____________________________________________________________________________________
+## 0_originalData__________
 
 ### forceTraces [folder]
 This folder contains force traces for each of the animal sets (details found in the main text). Each animal set folder contains data organized by the date on which it was collected. Within each dated folder are the set of force traces collected that day. Each file is named using the following convention: <br/>
@@ -15,7 +15,7 @@ where each piece of information in the name is separated by an underscore: the n
 ### images [folder]
 This folder is organized in the same way as the force traces. Within each dated folder are the images used to determine the morphology of the individual (tube foot disc area, tube foot length), the number of footprints, and the number of broken tube feet. Each file has the name of an individual, an indicator of what the image depicts (tfLength, tube foot length; tfStain, stained footprints and broken tube feet after a whole animal trial; tfArea, tube foot area).
 
-## 1_statsData________________________________________________________________________________________
+## 1_statsData__________
 
 ### figures [folder]
 This folder contains pdfs of the figures with graphs created in R (Fig. 2, 3 and S1). These are generated when running the R script _“strainRate_tidyCode”_.
