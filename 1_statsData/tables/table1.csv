@@ -1,0 +1,4 @@
+"","Set","Tube Foot Disc Tenacity (MPa)","Tube Foot Stem Breaking Force (N)","Tube Foot Stem Extension (mm)","Tube Foot Stem Initial Spring Constant (N/m)","Tube Foot Stem Final Spring Constant (N/m)","Tube Foot Stem Work to Failure (J)","Number of Attachments (1/cm2)","Maximum Adhesive Force (N)","Whole Animal Adhesion (N/cm2)"
+"1","WA2","0.240[0.092,0.555]","0.52[0.26,0.79]","4.5[2.7,7.9]","1.01[0.01,2.96]","30.5[1.1,40.6]","0.018[0.006,0.047]","3.40[1.39,4.52]","31.0[11.4,48.3]","0.33[0.13,0.57]"
+"2","CA8","0.191[0.005,0.444]","NA[NA,NA]","NA[NA,NA]","NA[NA,NA]","NA[NA,NA]","NA[NA,NA]","1.38[0.01,3.93]","11.8[2.6,45.4]","0.13[0.03,0.51]"
+"3","CA44","0.253[0.092,0.544]","0.40[0.24,0.57]","3.6[1.3,7.0]","1.39[0.41,3.03]","37.5[16.3,81.7]","0.011[0.002,0.023]","1.25[0.41,2.12]","6.3[1.1,19.2]","0.07[0.01,0.18]"
